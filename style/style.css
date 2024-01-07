@@ -33,7 +33,7 @@
 
   }
 
-  .container2{
+  .container3{
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -42,12 +42,12 @@
     
     
   }
-  .image-container2{
+  .image-container3{
   position: relative;
     max-width: 500px;
     max-height: 500px;
   }
-  .centered-image2 {
+  .centered-image3{
     width: 100%; 
     height: auto; 
   }
@@ -68,7 +68,7 @@
 
 }
   
-  .text-overlay2 p{
+  .text-overlay3 p{
     position: absolute;
     padding: 50px;
     padding-bottom: 60px;
@@ -81,9 +81,10 @@
     text-align: center;
     text-wrap:wrap;
     
+    
 
   }
-  .text-overlay2 h1{
+  .text-overlay3 h1{
     position: absolute;
     padding: 50px;
     padding-top: 70px;
@@ -94,6 +95,18 @@
     color: white;
     text-align: center;
     text-wrap:wrap;
+  }
+  .container6{
+    padding: 30px, 30px, 30px, 150px;
+    display: flex;
+  }
+  .container6  .con63{
+    width: 1320px;
+    height: 229px;
+
+  }
+  .container6 .con62{
+    
   }
  
  
