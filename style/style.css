@@ -155,3 +155,25 @@ font-style: normal;
 font-weight: 900;  
 text-wrap: wrap; 
 }
+
+.image-container7 {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between; /* Distribute space between images */
+}
+
+.image-container7 img {
+  width: 30%; /* Set the width for each image */
+  margin-bottom: 10px; /* Adjust spacing between images */
+  box-sizing: border-box; /* Include padding and border in the width */
+}
+.image-container70 {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between; /* Distribute space between images */
+}
+
+.image-container70 img {
+  width: 30%; /* Set the width for each image */
+  box-sizing: border-box; /* Include padding and border in the width */
+}
